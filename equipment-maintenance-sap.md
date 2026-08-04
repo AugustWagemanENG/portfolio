@@ -1,6 +1,6 @@
 # Equipment Maintenance Management System (SAP Framework)
 
-An enterprise-inspired equipment maintenance and tracking system designed to streamline preventative maintenance, standardize field SOPs, and track service schedules across utility and heavy agricultural equipment.
+An equipment maintenance and tracking system designed to consistiantly maintenance, standardize field SOPs, and track service schedules for utility and heavy agricultural equipment.
 
 ---
 
