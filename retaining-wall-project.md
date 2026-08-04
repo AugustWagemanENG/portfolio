@@ -24,8 +24,7 @@ Construction Steps
 8. Check alignment, and stability
 9. Finally, backfilled with mulch
 
-#3. Results
-## 3. Results
+#3. Results ##
 
 ![Finished Retaining Wall](./retaining-wall-finish.jpg)
 
