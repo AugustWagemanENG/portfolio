@@ -46,4 +46,4 @@ Project outcome:
 
 
 
-![Finished Retaining Wall](images/wall-finished.jpg)
+
