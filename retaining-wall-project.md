@@ -1,7 +1,7 @@
 # Retaining Wall Design & Assembly
 ## 1. CAD Model 
 To guarantee long-term integrity of retaining wall and to avoid structural collapse from lateral soil pressure, I created a CAD model "blueprint" before gathering materials to begin project. The blueprint helped decide where to incorporate drainage paths, how to prevent soil from going through drainage paths, and to plan for garden bed.
-![Retaining Wall CAD Blueprint](Assem1.JPG)
+![Retaining Wall CAD Blueprint](Assem1.STEP)
 
 #2. SOP 
 Materials Used
