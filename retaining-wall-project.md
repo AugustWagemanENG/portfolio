@@ -1,10 +1,9 @@
 # Retaining Wall Design & Assembly
 ## 1. CAD Model 
-To guarantee long-term integrity of retaining wall and to avoid structural collapse from lateral soil pressure, I created a CAD model "blueprint" before gathering materials to begin project. The blueprint helped decide where to incorporate drainage paths, how to prevent soil from going through drainage paths, and to plan for garden bed.
+To guarantee long-term integrity of retaining wall and to avoid collapse from soil pressure, I designed a CAD model "blueprint" from SOLIDWORKS design. The blueprint helped decide where to incorporate drainage paths, how to prevent soil/mulch from pushing in between cinderblocks, and to plan for future installation for A garden bed.
 ![Retaining Wall CAD Blueprint](Assem1.PNG)
 
-#2. SOP 
-Materials Used
+#2. Materials Used
 
 * Cinder blocks (15.5" W x 5.75" L x 7.5" H)
 * Capstone (17.5" W x 11.5" L x 1.25" H)
@@ -13,7 +12,7 @@ Materials Used
 * Stone veneer/facing (for front of wall)
 * Barrier sheeting (behind the wall to keep mulch out)
 
-Construction Steps
+SOP
 
 1. Preparing base placement by leveling dirt and setting up t-posts at each corner with a string attached to each tip of posts overlapping path for base.
 2. prepare concrete mixture for each layer of cinderblock
