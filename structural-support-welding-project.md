@@ -23,9 +23,6 @@
 
 4. Results ## 
 
-    
-     
-     
      
      -  After dragging 3 layers of steel from angle iron’s surface filling the 0.4 inch gap, I let steel set for 1 minute then applied wire brush to clear oxides and remove any slag preventing internal gaps from forming in the steel.
 Finally, I let steel sit for 20 minutes allowing steel to reach base temp for the materials max toughness. To test my fixed support, I drove the tractor to a small field to engage the brush hog. During this test, I noticed there was no bend in support bars, I also drove the tractor over uneven ground to ensure support held on elevated surfaces. Overall, I prevented collapse on brush hog motor saving over $2,000 on repair services. I used a total of five 3.25” inch steel rods, each rod costing approximately $0.25. Total service cost was $26.78. 
