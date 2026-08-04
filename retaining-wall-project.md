@@ -25,7 +25,9 @@ Construction Steps
 9. Finally, backfilled with mulch
 
 #3. Results
-![Finished Retaining Wall](retaining wall finish.jpg)
+## 3. Results
+
+![Finished Retaining Wall](./retaining-wall-finish.jpg)
 
 Project outcome: 
 - finished retaining wall giving the landscape a neat, sturdy border while keeping mulch and soil in place. By combining cinder blocks, stone facing, and a capstone, solved A problem while giving property a natural look
