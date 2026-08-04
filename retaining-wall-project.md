@@ -10,7 +10,7 @@
 * Capstone (17.5" W x 11.5" L x 1.25" H)
 * Quick-setting concrete mix (for setting blocks)
 * Grout (for capstone and stone facing)
-* Stone veneer/facing (for front of wall)
+* field stone/facing (for front of wall)
 * Barrier sheeting (behind the wall to keep mulch out)
 
 SOP
@@ -20,7 +20,7 @@ SOP
 3. Once cinderblock set, cut foam sheeting to cover the width of two cinderblocks from the inside before backfilling with mulch
 4. prepare grout mix
 5. Set capstone on top lay of cinderblocks, then grout each stone to top face of cinderblock
-6. Set chipped natural stone to front face, covering all visible cinderblocks
+6. Set field stone to front face, covering all visible cinderblocks
 8. Check alignment, and stability
 9. Finally, backfilled with mulch
 
@@ -29,8 +29,7 @@ SOP
 ![Finished Retaining Wall](./retaining-wall-finish.jpg)
 
 Project outcome: 
-- finished retaining wall giving the landscape a neat, sturdy border while keeping mulch and soil in place. By combining cinder blocks, stone facing, and a capstone, solved A problem while giving property a natural look
-
+- finished retaining wall giving the landscape a neat, sturdy border while keeping mulch and soil in place. By setting cinderblock as our base with foam sheets for insulation, A long term problem was solved preventing backfill from sneaking through the cinderblocks and too much lateral soil pressure all of which can damage or even collapse the structure. More importantly, The field stone keeps a natural texture to the overall layout of the property.
 
 
 
