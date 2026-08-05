@@ -1,6 +1,6 @@
 # Equipment Maintenance Management System (SAP Framework) 
 
-[View Introduction Sheet PDF](./sap-intro.pdf)
+
 
 An equipment maintenance and tracking system designed to maintenance, standardize field SOPs, and track service schedules for utility and heavy agricultural equipment.
 
@@ -22,7 +22,6 @@ An equipment maintenance and tracking system designed to maintenance, standardiz
 | **EQ-002** | Kubota L3901 | Heavy Tractor | LA525 | W0202 |
 | **EQ-003** | Kubota Zero-Turn Mower | Lawn Mower | Z726XKW | 12359 | 
 
-[View Vehicle Description PDF](./sap-description.pdf)
 
 ---
 
@@ -75,7 +74,6 @@ An equipment maintenance and tracking system designed to maintenance, standardiz
 
 ---
 
-[View Maintenance Procedures PDF](./sap-procedure.pdf)
 
 
 ## 4. Execution Logs
@@ -91,14 +89,8 @@ An equipment maintenance and tracking system designed to maintenance, standardiz
 
 ## 5. Vehicle Documentation & Photos
 
-* **Sheet PDF Document:** 📄 [View Vehicle Photos PDF](./sap-photos.pdf)[cite: 3]
-
-| Vehicle Name | Documentation PDF |
-| :--- | :--- |
-| **Polaris Ranger XP (PROSTAR)** | [View Photos PDF](./sap-photos.pdf) |
-| **L3901 Kubota** | [View Photos PDF](./sap-photos.pdf) |
-| **Kubota zero-turn mower** | [View Photos PDF](./sap-photos.pdf) |
-
+* **Sheet PDF Document:** 📄 
+ [View photos PDF](./sap-documentation.pdf)
 
 
 ## 6. Outcome
