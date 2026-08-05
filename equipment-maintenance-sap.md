@@ -6,7 +6,7 @@ An equipment maintenance and tracking system designed to consistiantly maintenan
 
 ## 1. System Overview
 
-* **Primary Workbook:** [`sap-vehicle-schedule.csv`](./sap-vehicle-schedule.csv)
+* **Primary Workbook:** [`sap.ods`](./sap.ods)
 * **Framework:** SAP Maintenance Plan Model (Equipment ID -> Maintenance Task -> SOP -> Schedule)
 * **Target Machinery:** Utility vehicles (UTVs), heavy tractors, and lawn care power equipment.
 
