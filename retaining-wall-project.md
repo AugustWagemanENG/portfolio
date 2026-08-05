@@ -2,7 +2,7 @@
 ## 1. CAD Model 
 - To guarantee long-term integrity of retaining wall and to avoid collapse from soil pressure, I designed a CAD model "blueprint" from SOLIDWORKS design. The blueprint helped decide where to incorporate drainage paths, how to prevent soil/mulch from pushing in between cinderblocks, and to plan for future installation for A garden bed.
 
-![Retaining Wall CAD Blueprint](Assem1.PNG)
+![Retaining Wall CAD Blueprint](retaining-wall-assembly.png)
 
 #2. Materials Used
 
