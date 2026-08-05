@@ -6,7 +6,7 @@ An equipment maintenance and tracking system designed to maintenance, standardiz
 
 ---
 
-## 1. System Overview
+## 1. Overview
 
 * **Primary Workbook:** [`workbook.xlsx`](./workbook.xlsx)
 * **Framework:** SAP Maintenance Plan Model (Equipment ID -> Maintenance Task -> SOP -> Schedule)
@@ -26,7 +26,7 @@ An equipment maintenance and tracking system designed to maintenance, standardiz
 
 ---
 
-## 3. Maintenance Tasks & Standard Operating Procedures (SOPs)
+## 3. Maintenance Procedures (SOPs)
 
 ### Task ID: TA-001 | Polaris Ranger XP
 * **Target Vehicle:** Polaris Ranger XP (PROSTAR)
@@ -78,7 +78,7 @@ An equipment maintenance and tracking system designed to maintenance, standardiz
 [View Maintenance Procedures PDF](./sap-procedure.pdf)
 
 
-## 4. Maintenance Execution Logs
+## 4. Execution Logs
 
 | Plan ID | Equipment | Task Performed | Service Date | Status |
 | :--- | :--- | :--- | :--- | :--- |
@@ -101,8 +101,8 @@ An equipment maintenance and tracking system designed to maintenance, standardiz
 
 
 
-## 6. Key System Outcomes
+## 6. Outcome
 
-* **Downtime Prevention:** Standardizes service intervals based on usage hours and calendar limits to prevent premature equipment failure.
+* **Downtime Prevention:** Set service intervals using both usage hours and calendar time. This approach helps ensure equipment is maintained before failure can occur.
 * **Safety & Regulatory Compliance:** Embeds detailed safety steps (power isolation, fluid cooling, environmental waste disposal) into every task list.
-* **Traceability:** Pairs unique equipment serial identifiers with task logs to maintain full service history.
+* **Traceability:** Connects each equipment serial number to its service and task records, so you can track the full maintenance history.
