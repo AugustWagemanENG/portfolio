@@ -85,12 +85,11 @@ An equipment maintenance and tracking system designed to maintenance, standardiz
 | **P-003** | Kubota Zero-Turn Mower | Change oil; replace filter; grease blade spindles | 2025-05-25 | `Completed` |
 
 ---
-[View Re-Servicing Schedule PDF](./sap-scheduling.pdf)
 
 ## 5. Vehicle Documentation & Photos
 
 * **Sheet PDF Document:** 📄 
- [View photos PDF](./sap-documentation.pdf)
+ [View photos PDF](./sap-doc-project.md.pdf)
 
 
 ## 6. Outcome
