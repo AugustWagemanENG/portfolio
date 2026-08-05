@@ -1,4 +1,6 @@
-# Equipment Maintenance Management System (SAP Framework)
+# Equipment Maintenance Management System (SAP Framework) 
+
+[View Introduction Sheet PDF](./sap-intro.pdf)
 
 An equipment maintenance and tracking system designed to consistiantly maintenance, standardize field SOPs, and track service schedules for utility and heavy agricultural equipment.
 
@@ -12,13 +14,15 @@ An equipment maintenance and tracking system designed to consistiantly maintenan
 
 ---
 
-## 2. Asset Inventory
+## 2. Asset Inventory 
 
 | Asset ID | Equipment Name | Category | Model | Serial Number |
 | :--- | :--- | :--- | :--- | :--- |
 | **EQ-001** | Polaris Ranger XP (PROSTAR) | UTV | Ranger Fullsize | 46240 |
 | **EQ-002** | Kubota L3901 | Heavy Tractor | LA525 | W0202 |
-| **EQ-003** | Kubota Zero-Turn Mower | Lawn Mower | Z726XKW | 12359 |
+| **EQ-003** | Kubota Zero-Turn Mower | Lawn Mower | Z726XKW | 12359 | 
+
+[View Vehicle Description PDF](./sap-description.pdf)
 
 ---
 
@@ -68,7 +72,11 @@ An equipment maintenance and tracking system designed to consistiantly maintenan
   8. Use a grease gun to lubricate all blade spindle fittings until a small amount of grease exits the fitting.
   9. Clean any spills and dispose of used oil and filter properly.
 
+
 ---
+
+[View Maintenance Procedures PDF](./sap-procedure.pdf)
+
 
 ## 4. Maintenance Execution Logs
 
@@ -79,8 +87,21 @@ An equipment maintenance and tracking system designed to consistiantly maintenan
 | **P-003** | Kubota Zero-Turn Mower | Change oil; replace filter; grease blade spindles | 2025-05-25 | `Completed` |
 
 ---
+[View Re-Servicing Schedule PDF](./sap-scheduling.pdf)
 
-## 5. Key System Outcomes
+## 5. Vehicle Documentation & Photos
+
+* **Sheet PDF Document:** 📄 [View Vehicle Photos PDF](./sap-photos.pdf)[cite: 3]
+
+| Vehicle Name | Documentation PDF |
+| :--- | :--- |
+| **Polaris Ranger XP (PROSTAR)** | [View Photos PDF](./sap-photos.pdf) |
+| **L3901 Kubota** | [View Photos PDF](./sap-photos.pdf) |
+| **Kubota zero-turn mower** | [View Photos PDF](./sap-photos.pdf) |
+
+
+
+## 6. Key System Outcomes
 
 * **Downtime Prevention:** Standardizes service intervals based on usage hours and calendar limits to prevent premature equipment failure.
 * **Safety & Regulatory Compliance:** Embeds detailed safety steps (power isolation, fluid cooling, environmental waste disposal) into every task list.
