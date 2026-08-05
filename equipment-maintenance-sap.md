@@ -2,13 +2,13 @@
 
 [View Introduction Sheet PDF](./sap-intro.pdf)
 
-An equipment maintenance and tracking system designed to consistiantly maintenance, standardize field SOPs, and track service schedules for utility and heavy agricultural equipment.
+An equipment maintenance and tracking system designed to maintenance, standardize field SOPs, and track service schedules for utility and heavy agricultural equipment.
 
 ---
 
 ## 1. System Overview
 
-* **Primary Workbook:** [`sap.ods`](./sap.ods)
+* **Primary Workbook:** [`workbook.xlsx`](./workbook.xlsx)
 * **Framework:** SAP Maintenance Plan Model (Equipment ID -> Maintenance Task -> SOP -> Schedule)
 * **Target Machinery:** Utility vehicles (UTVs), heavy tractors, and lawn care power equipment.
 
