@@ -43,6 +43,5 @@ Mechanical engineering student with experience in support analysis for industria
 ---
 
 ## 📫 Contact & Links
-* **LinkedIn:** [Your LinkedIn URL]
-* **Email:** [Your Email Address]
-* **Live Portfolio:** [Link to your GitHub Pages URL if applicable]
+* **Email:** [awage.edu@gmail.com]
+* **Live Portfolio:** [https://augustwagemaneng.github.io/portfolio/] 
